@@ -7,7 +7,7 @@ It's a mobile application developed with Flutter which facilitates travelers' us
 [![Demo](./Presentation.png)](https://www.canva.com/design/DAFCMnf35ZM/c6cocVSlD4uTxjpYmhF8lA/view?utm_content=DAFCMnf35ZM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Collaborators
-This project was developped by :
+This project was developed by :
 | Raoua Trimech | Hadil Helali |
 | --- | --- |
 
